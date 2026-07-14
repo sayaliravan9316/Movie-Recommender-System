@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import pickle
+#import pickle
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
